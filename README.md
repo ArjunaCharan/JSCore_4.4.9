@@ -3,12 +3,12 @@
 
 Отправил запрос на регистрацию нового пользователя
 ![image](https://github.com/ArjunaCharan/JSCore_4.4.9/assets/121258048/edb47346-380d-4f3b-b6f8-3beba33734a8)
-токен авторизации eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NmI2YzZjNjBjNjc1MWIwMGI3Nzk5MSIsInVzZXJuYW1lIjoianNjb3JlIiwiZXhwIjoxNjg5OTQ1NzA4LCJpYXQiOjE2ODQ3NjE3MDh9.krB_KR7kTT9cKx7E7l9khDc-MRugSEaj7gtcXQ9YZKk
-
-
+токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NmI2YzZjNjBjNjc1MWIwMGI3Nzk5MSIsInVzZXJuYW1lIjoianNjb3JlIiwiZXhwIjoxNjg5OTQ1NzA4LCJpYXQiOjE2ODQ3NjE3MDh9.krB_KR7kTT9cKx7E7l9khDc-MRugSEaj7gtcXQ9YZKk
 
 Отправил запрос на логин
-
 ![image](https://github.com/ArjunaCharan/JSCore_4.4.9/assets/121258048/afcc8b98-1b89-4b86-9e6f-cff74ae6ce1f)
 токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NmI2YzZjNjBjNjc1MWIwMGI3Nzk5MSIsInVzZXJuYW1lIjoianNjb3JlIiwiZXhwIjoxNjg5OTQ2MTk5LCJpYXQiOjE2ODQ3NjIxOTl9.mU0hCfQRipJP29tkVVPlTZtEY7rIn2riuMUkByz1CNQ
 
+Отправил запрос на получение данных текущего пользователя
+![image](https://github.com/ArjunaCharan/JSCore_4.4.9/assets/121258048/75caf3d0-1766-4a87-bb62-b2c2727a4ba0)
+токен: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0NmI2YzZjNjBjNjc1MWIwMGI3Nzk5MSIsInVzZXJuYW1lIjoianNjb3JlIiwiZXhwIjoxNjg5OTQ3MjQ1LCJpYXQiOjE2ODQ3NjMyNDV9.hV149Jb-Ud-rzcVFLstnPzhSu2Z6e2v1R-4_zdBLKcw
